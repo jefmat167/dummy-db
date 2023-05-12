@@ -1,39 +1,8 @@
 {
   "users": [
     {
-      "id": 1,
-      "first_name": "Chia",
-      "last_name": "Gabriel",
-      "email": "cgabriel@email.com",
-      "gender": "male"
-    },
-    {
-      "id": 2,
-      "first_name": "Nneke",
-      "last_name": "Valentine",
-      "email": "nval@email.com",
-      "gender": "male"
-    },
-    {
-      "id": 3,
-      "first_name": "Isaac",
-      "last_name": "Matthew",
-      "email": "imat@email.com",
-      "gender": "male"
-    },
-    {
-      "id": 4,
-      "first_name": "Dorcas",
-      "last_name": "Surname",
-      "email": "dsurname@email.com",
-      "gender": "female"
-    },
-    {
-      "id": 5,
-      "first_name": "Dapo",
-      "last_name": "Otaigbe",
-      "email": "dotaigbe@email.com",
-      "gender": "male"
+      "question": "What is typescript?",
+      "id": 1
     }
   ]
 }
